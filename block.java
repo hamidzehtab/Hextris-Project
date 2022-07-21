@@ -767,11 +767,8 @@ public class block {
 
 
 /*
-	| writted by : nimazare
+	| writted by : hamidzehtab
 	| university : ferdowsi
-	| code-meli  : 0925943037
-	| phone      : 09055307841
-	| University_code : 9912762381
-
+	
 	thanks for your attention
  */
