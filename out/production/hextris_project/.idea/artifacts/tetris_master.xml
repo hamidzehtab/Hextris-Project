@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="tetris-master">
+    <output-path>$PROJECT_DIR$/out/artifacts/tetris_master</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="tetris_master.jar">
+        <element id="module-output" name="hextris_project" />
+      </element>
+    </root>
+  </artifact>
+</component>
